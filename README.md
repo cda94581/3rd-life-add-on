@@ -1,5 +1,5 @@
 # 3rd Life Add-on
-See more information about Open Source Chunk Loaders [here](https://cda94581.github.io/downloads/bps.html#_2021-06-10)
+See more information about the 3rd Life Add-on [here](https://cda94581.github.io/downloads/bps.html#_2021-06-10)
 
 Download the Add-on [here](https://github.com/cda94581/3rd-life-add-on/releases)
 
