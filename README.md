@@ -3,6 +3,9 @@ See more information about the 3rd Life Add-on [here](https://cda94581.github.io
 
 Download the Add-on [here](https://github.com/cda94581/3rd-life-add-on/releases)
 
+# ARCHIVED
+Two years ago, this was a fun project. Since then, a lot has happened and I have decided maintaining and updating this pack through the different Life Series seasons wasn't where my interests lied in. Those who still enjoy the series may be interested in other projects such as [this one](https://mcpedl.com/last-life/), although their status is completely up to the creators of each pack.
+
 ## About
 This add-on was a requested fan-based creation when the first installment of the 3rd Life series was launched. The premise is simple: You get 3 lives. If you lose them all, you are sent to a "spectator" mode. Recreations of Last Life and Double Life have been considered, however no formal plans have been made.
 
